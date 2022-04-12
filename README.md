@@ -1,2 +1,2 @@
 # AI-Projects
-Various projects thhat illustrate Machine Learning and Deep Learning methodologies.
+Various projects that illustrate Machine Learning and Deep Learning methodologies.
